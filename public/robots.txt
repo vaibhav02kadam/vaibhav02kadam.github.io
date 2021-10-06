@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://vaibhav02kadam.github.io/sitemap.xml
