@@ -1,6 +1,6 @@
 ---
 title: Mobile Base with Spherical Robots as wheels
-summary: Omnidirectional Mobile Base using Spherical Robots (Sphero) as wheels.
+summary: <div align= "justify"> The project investigated the use of spherical robots as wheels. A omnidirectional mobile base was developed each spheros at 120 degrees apart connected via a link. A kinematic model for orienting and commanding the velocities of these actuation is developed. Various experiments were performed with feedback from Vicon Motion Capture systems. </div>
 # tags:
 # - Deep Learning
 date: "2019-06-05T00:00:00Z"
@@ -62,8 +62,9 @@ Waypoint Navigation                    |  Circle Tracking
 - Python ROS wrappers were written to interface with bluepy python package. The kinematic model was validated with experiments like waypoint navigation and circular trajectory tracking. The above figure shows the results of the experiments done.
 </div>  
 
-### <div align= "center"> SPHERICAL ROBOTS IN ACTION </div>
+## <div align= "center"> Want to know more ?? </div>
 
+### <div align= "center"> Checkout this Talk by me at IIT Bombay </div>
 
 
 {{< youtube jAoLYkS1-F0>}}

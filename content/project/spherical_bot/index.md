@@ -1,15 +1,15 @@
 ---
-title: Spherical Robot
-summary: Search and Reconnassiance using Spherical Robot.
+title:  Search and Reconnassiance using Spherical Robot.
+summary: <div align= "justify">  Spherical robot is palms-sized robot with in built Pan-360 system and can be teleoperated using a andriod phone. Investigations were made to develop a robust and ergonomic spherical robot and control its wobble while manevuering due to its highly nonlinear nature. </div>
 # tags:
 # - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2021-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Spherical robot in action
   focal_point: Smart
 
 links:
@@ -20,7 +20,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/LVJ2bTSwBdU"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,12 +30,60 @@ url_video: ""
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+### ABOUT THE PROJECT
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+<div align= "justify"> Spherical Robot is teleoperated ball-shaped mobile rolling robot with all electronics inside. It is equipped with an onboard Pan-360 vision system that provides visual feedback which is then transmitted to the operator thereby enabling better control of the robot’s movement. A manually operated spherical robot has been designed that provides visual feedback for reconnaissance and search. The design of the robot can be easily modified to add sensors for collecting application-specific information to the operator. This work was carried out under the guidance of Prof. Leena Vachhani at NCETIS IIT Bombay. </div>
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+### SKILLS INVOLVED
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+  
+- ROS & ROS plugins.
+- C++ & Python.
+- Motion planning & control algorithms.
+- Embedded Control Devevlopment.
+- Robotics Product Development.
+- Design in Solidworks & Fabrication.
+- Rapid Prototyping.
+- MATLAB Multibody simulation.
+- Sensor Interfacing.
+- PCB designing and prototyping.
+- 3D Printing.
+- Gazebo, RViz
+- Troubleshooting real robot hardware
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+###  SPHERICAL ROBOT 
+
+
+<div align= "justify">
+Spherical robots are non-holonomic rolling robots that have advantages compared to 4WD robots to manevoure in cluttered indoor environment. The spherical robot has yoke having actuator that drives the robot ahead with pendulums to steer with shift of CoM.
+</div>
+<br>
+
+Spherical Bot Motion                          |    Detailed View
+:--------------------------------------------:|:-------------------------:
+ {{<video src ="small_spherical_bot.mp4"  >}} |  {{<figure src="spbot.jpg" width= "600px" >}}
+
+
+
+### DESIGN AND DEVELOPMENT
+
+<div align= "justify">
+My research involved developing a novel palm-sized robot that has ergonomic design. Focused in developing compact spherical robot that can be easily deployed. I contributed in rapid prototyping of the robot. Spherical robot has symmetric body and CoM plays a crucial role. Designing a robot considering its CoM to lie on a calculated co-ordinate involved in numerous iterations and prototyping. Design was developed in SOLIDWORKS and to understand its motion it was simulated in MATLAB Multibody Simulation (Simmechanics).
+</div>
+
+### CONTROL SOFTWARE DEVELOPMENT
+
+<div align= "justify">
+Developing software to integrate all elements. Along with sensor interfacing such as IMU and encoders. Worked on embedded control algorithms to reduce wobble of spherical robot and for position and velocity control of actuators. Contributed to a ROS package for spherical bots. Validated feedback control algorithms with ground truth from VICON Motion capture systems.
+</div>
+
+### REAL ROBOT HARDWARE
+<div align= "justify">
+Spherical robot investigations included great extent of experimentation, testing & on field deployments. Worked on deployments with real robot hardware and its troubleshooting. Furthermore investigated in fabrication of polycarbonate Hull (outer shell) and its design analysis.
+</div>
+
+> ## Spherical Robot in **NEWS** 
+> Published in TIMES OF INDIA</br>
+> Check it [here](https://timesofindia.indiatimes.com/city/mumbai/mumbai-iit-b-profs-create-robot-for-reconnaissance-search-ops/articleshow/81694432.cms)
+> Glad to be the key contributor to the project.
+  {{<figure src="sp_news.jpg" >}}
