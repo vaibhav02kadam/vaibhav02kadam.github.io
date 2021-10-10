@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Vaibhav N Kadam</title>
+    <link>https://vaibhav02kadam.github.io/publication-type/8/</link>
+      <atom:link href="https://vaibhav02kadam.github.io/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vaibhav02kadam.github.io/media/icon_hua80276e383368a64b4329f8959a4f7b2_10888_512x512_fill_lanczos_center_3.png</url>
+      <title>8</title>
+      <link>https://vaibhav02kadam.github.io/publication-type/8/</link>
+    </image>
+    
+    <item>
+      <title>EARTHQUAKE RESCUE AND RELIEF OPERATIONS ROBOT.</title>
+      <link>https://vaibhav02kadam.github.io/publication/tensegrity_patent/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://vaibhav02kadam.github.io/publication/tensegrity_patent/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;div-align-centertensegrity-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt;Tensegrity Robot &lt;/div&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Patent filed&lt;/strong&gt; in &lt;em&gt;India Patent Office IPO&lt;/em&gt; for &lt;strong&gt;Tensegrity robot&lt;/strong&gt;   at manevuers on uneven terrain&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div align= &#34;justify&#34;&gt;
+Earthquake affected regions pose threat not only to its victims but the rescue personnel who are concerned about saving them. The
+damage caused by earthquakes is massive which leads to destruction of buildings, roads, bridges etc. The victims are often trapped
+under such damaged structures, whose structural integrity is uncertain, thus acting as a barrier to the rescue operations. The primary
+idea behind developing Earthquake Rescue and Relief Operations Robot (ERROR bot) is to remove that barrier by deploying it in
+those regions and carrying out relief operations. Rescue bots must be rugged, robust and be able to move around in a multitude of
+terrains. This is particularly required because a region hit by an earthquake will have debris everywhere making the terrain highly
+irregular and non-uniform, and thus would be impossible to cover by traditional bots equipped with wheels. The ERROR bot
+overcomes this kind of limitation because it was designed with all-terrain motion in mind. The unique Tensegrity structures which
+constitute the entire body of the ERROR bot allow for robustness, ruggedness, and all-terrain motion. The other and the most
+important reason for opting such an unusual shape is that Tensegrity structures have this unique property of sustaining impacts by
+absorbing shocks, which makes it ideal to be used in relief operations. The flexible structure of the bot makes use of a to-and-fro
+motion much like that of an amoeba. ERROR bot is controlled by a user situated in a remote place using a Graphical User Interface
+that provides both the controls as well as a visual feedback or the first person view(FPV) of the bot using a camera placed in the
+structure. User monitors the FPV of the bot and searches for a possible survivor and when it finds one it delivers the relief gear to that
+survivor, that can be anything from vaccines, first-aid, knife etc.
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
