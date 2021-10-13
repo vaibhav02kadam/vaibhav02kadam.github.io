@@ -60,16 +60,7 @@
 Spherical robots are non-holonomic rolling robots that have advantages compared to 4WD robots to manevoure in cluttered indoor environment. The spherical robot has yoke having actuator that drives the robot ahead with pendulums to steer with shift of CoM.
 &lt;/div&gt;
 &lt;br&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Spherical Bot Motion&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Detailed View&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
+
 
 
 
@@ -86,8 +77,13 @@ Spherical robots are non-holonomic rolling robots that have advantages compared 
 
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://vaibhav02kadam.github.io/project/spherical_bot/small_spherical_bot.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
+&lt;/video&gt;
+&lt;h3 id=&#34;design-and-development&#34;&gt;DESIGN AND DEVELOPMENT&lt;/h3&gt;
+&lt;div align= &#34;justify&#34;&gt;
+My research involved developing a novel palm-sized robot that has ergonomic design. Focused in developing compact spherical robot that can be easily deployed. I contributed in rapid prototyping of the robot. Spherical robot has symmetric body and CoM plays a crucial role. Designing a robot considering its CoM to lie on a calculated co-ordinate involved in numerous iterations and prototyping. Design was developed in SOLIDWORKS and to understand its motion it was simulated in MATLAB Multibody Simulation (Simmechanics).
+&lt;/div&gt;
+&lt;/br&gt;
+
 
 
 
@@ -108,17 +104,10 @@ Spherical robots are non-holonomic rolling robots that have advantages compared 
                /project/spherical_bot/spbot_hu2af21157473a441500f491f317163fe0_4996251_666dc68864e08a8285e441435cdd24e1.jpg 760w,
                /project/spherical_bot/spbot_hu2af21157473a441500f491f317163fe0_4996251_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
                src=&#34;https://vaibhav02kadam.github.io/project/spherical_bot/spbot_hu2af21157473a441500f491f317163fe0_4996251_2d5494da3e4dc045b0b0298420e0b359.jpg&#34;
-               width=&#34;600px&#34;
+               width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;design-and-development&#34;&gt;DESIGN AND DEVELOPMENT&lt;/h3&gt;
-&lt;div align= &#34;justify&#34;&gt;
-My research involved developing a novel palm-sized robot that has ergonomic design. Focused in developing compact spherical robot that can be easily deployed. I contributed in rapid prototyping of the robot. Spherical robot has symmetric body and CoM plays a crucial role. Designing a robot considering its CoM to lie on a calculated co-ordinate involved in numerous iterations and prototyping. Design was developed in SOLIDWORKS and to understand its motion it was simulated in MATLAB Multibody Simulation (Simmechanics).
-&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;h3 id=&#34;control-software-development&#34;&gt;CONTROL SOFTWARE DEVELOPMENT&lt;/h3&gt;
 &lt;div align= &#34;justify&#34;&gt;
 Developing software to integrate all elements. Along with sensor interfacing such as IMU and encoders. Worked on embedded control algorithms to reduce wobble of spherical robot and for position and velocity control of actuators. Contributed to a ROS package for spherical bots. Validated feedback control algorithms with ground truth from VICON Motion capture systems.
@@ -126,6 +115,43 @@ Developing software to integrate all elements. Along with sensor interfacing suc
 &lt;h3 id=&#34;real-robot-hardware&#34;&gt;REAL ROBOT HARDWARE&lt;/h3&gt;
 &lt;div align= &#34;justify&#34;&gt;
 Spherical robot investigations included great extent of experimentation, testing &amp; on field deployments. Worked on deployments with real robot hardware and its troubleshooting. Furthermore investigated in fabrication of polycarbonate Hull (outer shell) and its design analysis.
+&lt;/div&gt;
+&lt;/br&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-spbot&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/spbot/Big_bot_final.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/spbot/Big_bot_final_hue02a2a2b6d7877f5cdde9aa3ba293a7b_1557201_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Big_bot_final.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-spbot&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/spbot/IMG_5259.JPG&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/spbot/IMG_5259_hucd7f5b946e164c4700e53bd4c37f89f7_7221619_0x190_resize_q75_lanczos.JPG&#34; loading=&#34;lazy&#34; alt=&#34;IMG_5259.JPG&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
 &lt;/div&gt;
 &lt;blockquote&gt;
 &lt;h2 id=&#34;spherical-robot-in-news&#34;&gt;Spherical Robot in &lt;strong&gt;NEWS&lt;/strong&gt;&lt;/h2&gt;
@@ -158,6 +184,61 @@ Glad to be the key contributor to the project.
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2 id=&#34;spherical-robot-demo-visits&#34;&gt;Spherical Robot Demo Visits&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-themes&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/themes/IMG-20190719-WA0003.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/themes/IMG-20190719-WA0003_huf2632b3b589939bc84d202440dd6da47_111277_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20190719-WA0003.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-themes&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/themes/IMG-20190719-WA0006.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/themes/IMG-20190719-WA0006_hu33d8f2710ea4928d295bd08cdc05f6eb_101503_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20190719-WA0006.jpg&#34; width=&#34;271&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-themes&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/themes/IMG-20190719-WA0014.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/themes/IMG-20190719-WA0014_hu85f8a884a4aad07e65cf8fdf87d7366b_103069_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20190719-WA0014.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-themes&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/themes/IMG-20190719-WA0021.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/themes/IMG-20190719-WA0021_hu220f76ff87d2a9fc6b48c82c96237acd_89005_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20190719-WA0021.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
 </description>
     </item>
     
@@ -235,6 +316,29 @@ Glad to be the key contributor to the project.
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control of an Omnidirectional Mobile Base with Multiple Spherical Robots</title>
+      <link>https://vaibhav02kadam.github.io/publication/mobile_base/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://vaibhav02kadam.github.io/publication/mobile_base/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -544,24 +648,23 @@ Three
     
     <item>
       <title>EARTHQUAKE RESCUE AND RELIEF OPERATIONS ROBOT.</title>
-      <link>https://vaibhav02kadam.github.io/publication/tensegrity_patent/</link>
+      <link>https://vaibhav02kadam.github.io/patent/tensegrity_patent/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://vaibhav02kadam.github.io/publication/tensegrity_patent/</guid>
+      <guid>https://vaibhav02kadam.github.io/patent/tensegrity_patent/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
 
-
+&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+ --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;. &amp;ndash;&amp;gt;&lt;/p&gt;
 &lt;h2 id=&#34;div-align-centertensegrity-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt;Tensegrity Robot &lt;/div&gt;&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Patent filed&lt;/strong&gt; in &lt;em&gt;India Patent Office IPO&lt;/em&gt; for &lt;strong&gt;Tensegrity robot&lt;/strong&gt;   at manevuers on uneven terrain&lt;/p&gt;
@@ -591,29 +694,6 @@ survivor, that can be anything from vaccines, first-aid, knife etc.
       <link>https://vaibhav02kadam.github.io/publication/bbr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://vaibhav02kadam.github.io/publication/bbr/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Control of an Omnidirectional Mobile Base with Multiple Spherical Robots</title>
-      <link>https://vaibhav02kadam.github.io/publication/mobile_base/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://vaibhav02kadam.github.io/publication/mobile_base/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
