@@ -37,9 +37,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: vaibhav02kadam@gmail.com  
-- icon: twitter
-  icon_pack: fab
-  link: 
+
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZXPXZjgAAAAJ&hl=en
@@ -49,9 +47,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/vaibhavkadam2804/
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Vaibhav-Kadam
+
+
 
 
 # Link to a PDF of your resume/CV.
@@ -67,9 +64,12 @@ email: vaibhav02kadam@gmail.com
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 Hey ! I'm Vaibhav Kadam, Roboticist from Mumbai India.</br>
-- Currently working at **[Peppermint Robots](https://www.getpeppermint.co/index.php)** Pune India, with Robotics team focused on developing Autonomous Industrial Floor Cleaning Robots. </br>
-- My work extensively focuses on development of Navigation Stack for autonomous cleaning and strategies for maximum coverage path planning.<br>
-- Previously I was associated with **[IIT Bombay](https://www.iitb.ac.in/)** as Research Assitant. I was fortunate to be advised by **[Prof. Leena Vachhani](https://www.sc.iitb.ac.in/~leena/)** and co-advised by **[Prof Abhishek Gupta](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Abhishek%20Gupta)**. </br>
-- I have contributed to Robotics Product development of **Spherical Robot** deployed with various security agencies for Homeland security. I had the opportunity to explore **Multi-agent systems** and **Modular Robots**.</br>
-- In my undergrad research I have extensively contributed on implementation and development of control algorithms on Embedded platforms advised by **[Prof. Divya Shah](https://scholar.google.com/citations?user=PkZCOlkAAAAJ&hl=nl)** and  **[Prof. Vishwesh Vywahare,](https://scholar.google.co.in/citations?user=tl-6kkYAAAAJ&hl=en)**. 
+
+
+Currently working at **[Peppermint Robots](https://www.getpeppermint.co/index.php)** Pune India, with Robotics team focused on developing Autonomous Industrial Floor Cleaning Robots. </br>
+My work extensively focuses on development of Navigation Stack for autonomous cleaning and strategies for maximum coverage path planning.<br>
+Previously I was associated with **[IIT Bombay](https://www.iitb.ac.in/)** **Autonomous Robots and Multi-robot Systems Lab [(ARMS)](https://www.sc.iitb.ac.in/robotics/people.html)** as Research Assistant, where I contributed to Product development of **[Spherical Robot](https://vaibhav02kadam.github.io/project/spherical_bot/)** deployed with various security agencies for Homeland security. I had the opportunity to explore **Multi-agent systems** and **Modular Robots**.</br>
+I love building novel robots!! 
+Check my **Robots Developed [Here](https://vaibhav02kadam.github.io/project/)**

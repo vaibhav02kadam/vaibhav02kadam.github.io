@@ -54,22 +54,23 @@ slides: ""
 ###  SPHERICAL ROBOT 
 
 
+
 <div align= "justify">
 Spherical robots are non-holonomic rolling robots that have advantages compared to 4WD robots to manevoure in cluttered indoor environment. The spherical robot has yoke having actuator that drives the robot ahead with pendulums to steer with shift of CoM.
 </div>
 <br>
 
-Spherical Bot Motion                          |    Detailed View
-:--------------------------------------------:|:-------------------------:
- {{<video src ="small_spherical_bot.mp4"  >}} |  {{<figure src="spbot.jpg" width= "600px" >}}
 
-
+  {{<video src ="small_spherical_bot.mp4"  >}}
 
 ### DESIGN AND DEVELOPMENT
 
 <div align= "justify">
 My research involved developing a novel palm-sized robot that has ergonomic design. Focused in developing compact spherical robot that can be easily deployed. I contributed in rapid prototyping of the robot. Spherical robot has symmetric body and CoM plays a crucial role. Designing a robot considering its CoM to lie on a calculated co-ordinate involved in numerous iterations and prototyping. Design was developed in SOLIDWORKS and to understand its motion it was simulated in MATLAB Multibody Simulation (Simmechanics).
 </div>
+</br>
+
+{{<figure src ="spbot.jpg">}}
 
 ### CONTROL SOFTWARE DEVELOPMENT
 
@@ -82,8 +83,17 @@ Developing software to integrate all elements. Along with sensor interfacing suc
 Spherical robot investigations included great extent of experimentation, testing & on field deployments. Worked on deployments with real robot hardware and its troubleshooting. Furthermore investigated in fabrication of polycarbonate Hull (outer shell) and its design analysis.
 </div>
 
+</br>
+
+{{< gallery album="spbot" >}}
+
 > ## Spherical Robot in **NEWS** 
 > Published in TIMES OF INDIA</br>
 > Check it [here](https://timesofindia.indiatimes.com/city/mumbai/mumbai-iit-b-profs-create-robot-for-reconnaissance-search-ops/articleshow/81694432.cms)
 > Glad to be the key contributor to the project.
   {{<figure src="sp_news.jpg" >}}
+
+
+## Spherical Robot Demo Visits 
+
+{{< gallery album="themes" >}}
