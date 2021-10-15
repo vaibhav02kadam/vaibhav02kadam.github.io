@@ -1,34 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Vaibhav N Kadam</title>
+    <title>Talks and Workshops | Vaibhav N Kadam</title>
     <link>https://vaibhav02kadam.github.io/event/</link>
       <atom:link href="https://vaibhav02kadam.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Talks and Workshops</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://vaibhav02kadam.github.io/media/icon_hua80276e383368a64b4329f8959a4f7b2_10888_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks and Workshops</title>
       <link>https://vaibhav02kadam.github.io/event/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://vaibhav02kadam.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://vaibhav02kadam.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
+      <title>Learning via Projects</title>
+      <link>https://vaibhav02kadam.github.io/talk/learning-via-projects/</link>
+      <pubDate>Mon, 14 Dec 2020 18:30:00 +0000</pubDate>
+      <guid>https://vaibhav02kadam.github.io/talk/learning-via-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processing using OpenCV-Python</title>
+      <link>https://vaibhav02kadam.github.io/talk/image-processing-using-opencv-python/</link>
+      <pubDate>Sun, 24 Sep 2017 09:30:00 +0000</pubDate>
+      <guid>https://vaibhav02kadam.github.io/talk/image-processing-using-opencv-python/</guid>
+      <description>&lt;h2 id=&#34;gallery-from-the-opencv-workshop-day&#34;&gt;Gallery from the OpenCV Workshop Day&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-opencv&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/opencv/opencv.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/opencv/opencv_hu36e3ab1b00979c4a8592cdaa8828e9ce_376049_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;opencv.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-opencv&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/opencv/opencv1.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/opencv/opencv1_hub23bbc56ae7ed6551f57aeb6fc276783_261852_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;opencv1.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>L1 Robotics workshop</title>
+      <link>https://vaibhav02kadam.github.io/talk/l1-robotics-workshop/</link>
+      <pubDate>Sat, 03 Sep 2016 09:30:00 +0000</pubDate>
+      <guid>https://vaibhav02kadam.github.io/talk/l1-robotics-workshop/</guid>
+      <description>&lt;h2 id=&#34;gallery-from-the-robotics-workshop-day&#34;&gt;Gallery from the Robotics Workshop Day&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-robotics&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/robotics/IMG-20160903-WA0008.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/robotics/IMG-20160903-WA0008_hud4352fc225d5853f6cbfd70858514b99_95109_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20160903-WA0008.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-robotics&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/robotics/IMG-20160904-WA0002.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/robotics/IMG-20160904-WA0002_hu78439e14bbd261b4e3cd42738a25acf2_141907_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20160904-WA0002.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-robotics&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/robotics/IMG-20160904-WA0038.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/robotics/IMG-20160904-WA0038_hu1345e6372e1eac19781c73363d05aa31_83749_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20160904-WA0038.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-robotics&#34; href=&#34;https://vaibhav02kadam.github.io/media/albums/robotics/IMG-20160904-WA0048.jpg&#34; &gt;
+      &lt;img src=&#34;https://vaibhav02kadam.github.io/media/albums/robotics/IMG-20160904-WA0048_huca59749b1ab552e02fe9a856ad81bcf2_132300_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20160904-WA0048.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
 </description>
     </item>
     

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vaibhav02kadam.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vaibhav02kadam.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vaibhav02kadam.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vaibhav02kadam.github.io/project/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vaibhav02kadam.github.io/project/spherical_bot/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vaibhav02kadam.github.io/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vaibhav02kadam.github.io/talk/learning-via-projects/</loc>
+    <lastmod>2020-12-14T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vaibhav02kadam.github.io/event/</loc>
+    <lastmod>2020-12-14T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://vaibhav02kadam.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -74,8 +74,14 @@
     <loc>https://vaibhav02kadam.github.io/patent/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://vaibhav02kadam.github.io/talk/image-processing-using-opencv-python/</loc>
+    <lastmod>2017-09-24T09:30:00+00:00</lastmod>
+  </url><url>
     <loc>https://vaibhav02kadam.github.io/publication/bbr/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vaibhav02kadam.github.io/talk/l1-robotics-workshop/</loc>
+    <lastmod>2016-09-03T09:30:00+00:00</lastmod>
   </url><url>
     <loc>https://vaibhav02kadam.github.io/admin/</loc>
   </url>
