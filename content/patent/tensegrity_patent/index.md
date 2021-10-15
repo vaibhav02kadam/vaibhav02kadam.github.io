@@ -85,12 +85,10 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
-
 
 ## <div align= "center">Tensegrity Robot </div>
 
-> **Patent filed** in *India Patent Office IPO* for **Tensegrity robot**   at manevuers on uneven terrain
+> **Patent filed** in **India Patent Office IPO** for **Tensegrity robot**   at manevuers on uneven terrain
 
 ### Abstract
 <div align= "justify">

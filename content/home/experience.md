@@ -43,9 +43,8 @@ experience:
     date_start: '2018-07-16'
     date_end: '2021-06-30'
     description: |2-
-        Contributions include:
-        
-        * Product Development of Spherical Robot for project Search and Reconnnaissance Using Spherical Robot. 
+        Advised by [Prof. Leena Vachhani](https://www.sc.iitb.ac.in/~leena/), [Prof. Abhishek Gupta](https://scholar.google.co.in/citations?user=EI2hj8gAAAAJ&hl=en).
+        * Product Development of [Spherical Robot](https://vaibhav02kadam.github.io/project/spherical_bot/) for project Search and Reconnnaissance Using Spherical Robot. 
         * Experimental investigations for wobble control of Spherical Robot.
         * Development of Novel Modular Robot Trimod having Spherical Robots as wheels.
     
@@ -57,8 +56,7 @@ experience:
     date_start: '2016-12-01'
     date_end: '2017-01-30'
     description: |2-
-        Responsibilities include:
-        
+        Advised by Mr. Teja Swaroop, Scientific Officer-D
         * Development of communication interface on a embedded platform of surgical robot.
 design:
   columns: '2'

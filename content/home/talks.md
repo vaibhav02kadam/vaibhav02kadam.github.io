@@ -3,14 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-active: false
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 120
 
-title: 'Recent & Upcoming Talks'
+title: 'Talks & Workshops'
 subtitle:
 
 content:
