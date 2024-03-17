@@ -19,13 +19,9 @@ bio: My research include SLAM, Localization, Navigation, Motion Planning
 # Interests to show in About widget
 interests:
 - Multi-sensor fusion
-- Path Planning
+- Motion Planning
 - SLAM
 - Reinforcement Learning
-
-skills:
-  - Software
-  - Hardware
 
 # Education to show in About widget
 education:
