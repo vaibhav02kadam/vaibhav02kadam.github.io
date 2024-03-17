@@ -81,7 +81,7 @@ sections:
           company: Adaptive and Intelligent Robotics Lab, WPI
           company_url: https://wp.wpi.edu/airlab/people/
           company_logo: wpi_icon
-          location: Minneapolis, USA
+          location: Worcester, USA
           date_start: '2022-11-20'
           date_end:  '2023-12-15'
           description: |2-
