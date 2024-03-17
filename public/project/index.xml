@@ -23,9 +23,20 @@
     </item>
     
     <item>
+      <title>Saliency Object Detection using Attention blocks in U2Net Architecture</title>
+      <link>http://localhost:1313/project/atttention_u2net/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/atttention_u2net/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;p&gt;Owing to the powerful feature extraction capabilities of convolutional neural networks (CNNs), deep learning methods have recently made significant strides in the field of salient object detection. Despite this progress, many current deep models struggle to effectively learn informative contextual features, resulting in suboptimal performance when faced with complex scenes. In our proposed approach, we explore the application of the U2Net-attention framework to enhance this performance of Salient Object Detection (SOD). Specifically, we analyze standard and modified attention blocks in conjunction with various U2Net architectures, such as attention-inside, attention-outside, and a combination of both. To provide a comprehensive evaluation of the proposed models, we employ a qualitative assessment of SOD using all attention-enhanced models and the attention maps generated.&lt;/p&gt;
+&lt;h2 id=&#34;div-align-center-ball-balancing-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt; BALL BALANCING ROBOT &lt;/div&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multi-Agent Path Finding for Robots in Large-Scale Warehouses</title>
       <link>http://localhost:1313/project/mapf/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/mapf/</guid>
       <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
 &lt;p&gt;The Multi-Agent Pathfinding (MAPF) is a crucial problem of warehouse mobile robots to find collision free path to the target position. In this paper, we explore MAPF algorithms that produce an optimal and suboptimal path for a fixed number of robots to navigate in a warehouse environment. In addition, this paper also elaborates on the comparative analysis of the studied algorithms, with increasing environmental complexity and increasing number of agents. The compared parameters are the total cost, flowtime and makespan of each algorithm.&lt;/p&gt;
@@ -34,12 +45,23 @@
     </item>
     
     <item>
-      <title>Saliency Object Detection using Attention blocks in U2Net Architecture</title>
-      <link>http://localhost:1313/project/atttention_u2net/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/atttention_u2net/</guid>
+      <title>Robust Trajectory Tracking for Quadrotor UAVs using Sliding Mode Control</title>
+      <link>http://localhost:1313/project/sliding_mode_drone/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sliding_mode_drone/</guid>
       <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
-&lt;p&gt;Owing to the powerful feature extraction capabilities of convolutional neural networks (CNNs), deep learning methods have recently made significant strides in the field of salient object detection. Despite this progress, many current deep models struggle to effectively learn informative contextual features, resulting in suboptimal performance when faced with complex scenes. In our proposed approach, we explore the application of the U2Net-attention framework to enhance this performance of Salient Object Detection (SOD). Specifically, we analyze standard and modified attention blocks in conjunction with various U2Net architectures, such as attention-inside, attention-outside, and a combination of both. To provide a comprehensive evaluation of the proposed models, we employ a qualitative assessment of SOD using all attention-enhanced models and the attention maps generated.&lt;/p&gt;
+&lt;p&gt;For a generated quintic trajectory we derive a sliding mode control law to track the reference velocity in ROS Gazebo environment. Please check &lt;a href=&#34;http://localhost:1313/uploads/sliding_mode.pdf&#34;&gt;report&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Valet Parking using Hybrid Astar</title>
+      <link>http://localhost:1313/project/valet/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/valet/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;p&gt;Valet Parking of a differential drive, Car-Ackermann Steering and Truck Trailer we implement Hybrid Astar considering holonomic and non-holonomic constraints with trajectory rollouts to park the vehicle between two other vehicles and maneuvering through obstacles.&lt;/p&gt;
+&lt;p&gt;Please check report &lt;a href=&#34;https://github.com/vaibhav02kadam/valet_parking/blob/main/report_valet_parking_vkadam.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;div-align-center-ball-balancing-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt; BALL BALANCING ROBOT &lt;/div&gt;&lt;/h2&gt;
 </description>
     </item>

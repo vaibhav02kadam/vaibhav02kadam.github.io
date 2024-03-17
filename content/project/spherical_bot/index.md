@@ -1,8 +1,8 @@
 ---
 title:  Search and Reconnassiance using Spherical Robot.
 summary: <div align= "justify">  Spherical robot is palm-sized robot with in built Fish-eye camera based perception. We investigate Nonlinear Feedback linearization control and develop a robust and ergonomic spherical robot to control its wobble while manevuering due to its highly nonlinear nature. </div>
-# tags:
-# - Deep Learning
+tags:
+- Controls
 date: "2021-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

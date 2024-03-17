@@ -2,7 +2,7 @@
 title: Ball balancing Robot
 summary: <div align= "justify"> Generally differential drive mobile robots are non holonomic. The motion constraints pose hinderance in manuevering in indoor cluttered environments.The work focuses on holonomic Ball-Balancing Robot (BBR). BBR system is inherently unstable, and can be dynamically stable. BBR does not have any constraint and need to turn in cluttered places. </div>
 tags:
-- ug_robots
+- Controls
 date: "2018-04-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -3,13 +3,13 @@ title: Multi-Agent Path Finding for Robots in Large-Scale Warehouses
 summary: <div align= "justify"> We implement Multi-agent Path Finding algorithms like Space-time Astar, Conflict Based Search and variants for warehouse mobile robots to find collision free path to the target position. We provide comparative analysis of the studied algorithms, with increasing environmental complexity and increasing number of agents </div>
 tags:
 - Motion Planning
-date: "2023-05-05T00:00:00Z"
+date: "2022-12-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Saliency Object Detection
+  caption: Conflict Based Search
   focal_point: Smart
 
 links:

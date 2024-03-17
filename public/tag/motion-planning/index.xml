@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tag/motion-planning/</link>
       <atom:link href="http://localhost:1313/tag/motion-planning/index.xml" rel="self" type="application/rss+xml" />
     <description>Motion Planning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hua80276e383368a64b4329f8959a4f7b2_10888_512x512_fill_lanczos_center_3.png</url>
       <title>Motion Planning</title>
@@ -15,10 +15,22 @@
     <item>
       <title>Multi-Agent Path Finding for Robots in Large-Scale Warehouses</title>
       <link>http://localhost:1313/project/mapf/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/mapf/</guid>
       <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
 &lt;p&gt;The Multi-Agent Pathfinding (MAPF) is a crucial problem of warehouse mobile robots to find collision free path to the target position. In this paper, we explore MAPF algorithms that produce an optimal and suboptimal path for a fixed number of robots to navigate in a warehouse environment. In addition, this paper also elaborates on the comparative analysis of the studied algorithms, with increasing environmental complexity and increasing number of agents. The compared parameters are the total cost, flowtime and makespan of each algorithm.&lt;/p&gt;
+&lt;h2 id=&#34;div-align-center-ball-balancing-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt; BALL BALANCING ROBOT &lt;/div&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Valet Parking using Hybrid Astar</title>
+      <link>http://localhost:1313/project/valet/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/valet/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;p&gt;Valet Parking of a differential drive, Car-Ackermann Steering and Truck Trailer we implement Hybrid Astar considering holonomic and non-holonomic constraints with trajectory rollouts to park the vehicle between two other vehicles and maneuvering through obstacles.&lt;/p&gt;
+&lt;p&gt;Please check report &lt;a href=&#34;https://github.com/vaibhav02kadam/valet_parking/blob/main/report_valet_parking_vkadam.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;div-align-center-ball-balancing-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt; BALL BALANCING ROBOT &lt;/div&gt;&lt;/h2&gt;
 </description>
     </item>
