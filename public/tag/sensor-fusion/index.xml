@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensor Fusion | Vaibhav Nandkumar Kadam</title>
+    <link>http://localhost:1313/tag/sensor-fusion/</link>
+      <atom:link href="http://localhost:1313/tag/sensor-fusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sensor Fusion</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sensor Fusion</title>
+      <link>http://localhost:1313/tag/sensor-fusion/</link>
+    </image>
+    
+    <item>
+      <title>Digsafe Autonomous Cable Detection &amp; Marking Robot.</title>
+      <link>http://localhost:1313/project/digsafe_robot/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/digsafe_robot/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;div align= &#34;justify&#34;&gt; Utility companies require conducting surveys to locate the distribution of power cables, a task that can be laborious. Inorder to solve this probelm, we&#39;ve designed the DigSafe robot, capable of autonomously detecting cables, predicting their trajectory, and marking their locations on the ground. Our contribution involves novel algorithm of multi-sensor fusion and accurately predictingn the path of underground power cables. Additionally, we&#39;ve developed a tracking controller to follow the generated trajectory, validating it against global plan derived from GIS data when available, or autonomously exploring the environment to locate and mark cables as needed. &lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

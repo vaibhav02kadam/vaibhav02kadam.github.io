@@ -51,6 +51,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -70,12 +71,24 @@ sections:
           date_start: '2023-05-15'
           date_end:  '2024-05-01'
           description: |2-
-              Responsibilities include:
               *  Developed decision making architecture for decision making in Danfoss Autonomous Control Library (ACL) ROS2 using behavior trees. 
               *  Migrate & Integrate ACL packages from ROS1 to ROS2 adhering V-Model automotive software development.
               *  Leverage simulations & deploy on Syslogic (Nvidia Orin AGX) for off-highway autonomous vehicles.
               *  Effort for systems integration and testing for ACL Packages on Polaris Ranger from vehicle interface to highway level navigation packages.
-        
+              *  Currently working on 3D SLAM solution for outdoor and indoor localization in GNSS denied environments.
+  
+        - title: Research Assistant
+          company: Adaptive and Intelligent Robotics Lab, WPI
+          company_url: https://wp.wpi.edu/airlab/people/
+          company_logo: wpi_icon
+          location: Minneapolis, USA
+          date_start: '2022-11-20'
+          date_end:  '2023-12-15'
+          description: |2-
+              * Worked on DigSafe robot - Autonomous Cable Detection & Marking Robot funded by [ROSE-HUB WPI](https://wp.wpi.edu/rosehub/projects/) & [Eversource](https://www.eversource.com/content/residential). 
+              * Surveying and Marking power cable laid underground is labourous task, my work was focused on developing outdoor navigation stack.
+              * I was engaged in development of multi-sensor fusion of Vivax Metrotech cable detector sensor to predict trajectory to be followed. 
+              * Implemented local planning based on trajectory prediction and tracking given global path generated from the Utility GIS Data. Developed  For more check project Digsafe
   
         - title: Senior Robotics Engineer
           company: Peppermint Robots
@@ -85,7 +98,6 @@ sections:
           date_start: '2021-07-19'
           date_end:  '2022-07-31'
           description: |2-
-              Responsibilities include:
               * Contribute to planning & controls of industrial floor cleaning & material movement AGV autonomy stack, focused obstacle avoidance local    planner using Motion primitives. Address safety edge cases and collision prediction.
               * Maintain indoor navigation stack for floor cleaning robots (SD45, SD100)
               * Developed user interface for deployment for floor cleaning robots, used boustrophedon decomposition for coverage path planning given safe and no-go zones.
@@ -151,6 +163,21 @@ sections:
   #   design:
   #     columns: '2'
 
+  - block: collection
+    id: patents
+    content:
+      title: Patents
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - patent
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: compact
 
   - block: portfolio
     id: projects
@@ -171,8 +198,10 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Motion Planning
+          tag: Motion Planning
         - name: Other
-          tag: Demo
+          tag: ug_robots
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -181,6 +210,7 @@ sections:
       flip_alt_rows: false
 
   - block: collection
+    id: publication
     content:
       title: Publications
       # text: |-
@@ -195,20 +225,6 @@ sections:
       columns: '2'
       view: compact
 
-  - block: collection
-    content:
-      title: Patents
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - patent
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: compact
     
   - block: contact
     id: contact

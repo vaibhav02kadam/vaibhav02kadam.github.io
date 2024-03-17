@@ -1,6 +1,6 @@
 ---
 title:  Search and Reconnassiance using Spherical Robot.
-summary: <div align= "justify">  Spherical robot is palms-sized robot with in built Pan-360 system and can be teleoperated using a andriod phone. Investigations were made to develop a robust and ergonomic spherical robot and control its wobble while manevuering due to its highly nonlinear nature. </div>
+summary: <div align= "justify">  Spherical robot is palm-sized robot with in built Fish-eye camera based perception. We investigate Nonlinear Feedback linearization control and develop a robust and ergonomic spherical robot to control its wobble while manevuering due to its highly nonlinear nature. </div>
 # tags:
 # - Deep Learning
 date: "2021-04-27T00:00:00Z"

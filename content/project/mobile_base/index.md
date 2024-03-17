@@ -1,6 +1,6 @@
 ---
 title: Mobile Base with Spherical Robots as wheels
-summary: <div align= "justify"> The project investigated the use of spherical robots as wheels. A omnidirectional mobile base was developed each spheros at 120 degrees apart connected via a link. A kinematic model for orienting and commanding the velocities of these actuation is developed. Various experiments were performed with feedback from Vicon Motion Capture systems. </div>
+summary: <div align= "justify"> The project investigated the use of spherical robots as wheels. A omnidirectional mobile base was developed each spheros at 120 degrees apart connected via a link. A kinematic model for commanding the velocities of these actuation is developed. Various experiments were performed with feedback from Vicon Motion Capture systems. </div>
 # tags:
 # - Deep Learning
 date: "2019-06-05T00:00:00Z"

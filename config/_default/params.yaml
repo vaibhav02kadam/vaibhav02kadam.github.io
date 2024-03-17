@@ -75,7 +75,7 @@ features:
     branch: gh-pages
   avatar:
     gravatar: false
-    shape: square
+    shape: rounded
   comment:
     provider: ''
     disqus:

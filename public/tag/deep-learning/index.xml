@@ -5,12 +5,23 @@
     <link>http://localhost:1313/tag/deep-learning/</link>
       <atom:link href="http://localhost:1313/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>http://localhost:1313/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Saliency Object Detection using Attention blocks in U2Net Architecture</title>
+      <link>http://localhost:1313/project/atttention_u2net/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/atttention_u2net/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;p&gt;Owing to the powerful feature extraction capabilities of convolutional neural networks (CNNs), deep learning methods have recently made significant strides in the field of salient object detection. Despite this progress, many current deep models struggle to effectively learn informative contextual features, resulting in suboptimal performance when faced with complex scenes. In our proposed approach, we explore the application of the U2Net-attention framework to enhance this performance of Salient Object Detection (SOD). Specifically, we analyze standard and modified attention blocks in conjunction with various U2Net architectures, such as attention-inside, attention-outside, and a combination of both. To provide a comprehensive evaluation of the proposed models, we employ a qualitative assessment of SOD using all attention-enhanced models and the attention maps generated.&lt;/p&gt;
+&lt;h2 id=&#34;div-align-center-ball-balancing-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt; BALL BALANCING ROBOT &lt;/div&gt;&lt;/h2&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ug_robots | Vaibhav Nandkumar Kadam</title>
+    <link>http://localhost:1313/tag/ug_robots/</link>
+      <atom:link href="http://localhost:1313/tag/ug_robots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ug_robots</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ug_robots</title>
+      <link>http://localhost:1313/tag/ug_robots/</link>
+    </image>
+    
+    <item>
+      <title>Ball balancing Robot</title>
+      <link>http://localhost:1313/project/bbr/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bbr/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Generally differential drive &lt;strong&gt;mobile robots&lt;/strong&gt; are &lt;em&gt;non holonomic&lt;/em&gt;. The motion constraints pose hinderance in manuevering in indoor cluttered environments.&lt;/li&gt;
+&lt;li&gt;The work focuses on &lt;em&gt;holonomic&lt;/em&gt; &lt;strong&gt;Ball-Balancing Robot (BBR)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;BBR system is inherently unstable, and can be dynamically stable. BBR does not have any constraint and need to turn in cluttered places.&lt;/li&gt;
+&lt;li&gt;It is equipped with a kinect sensor for providing vision capabilities using which it could simultaneously localize itself and map its surroundings (SLAM) that would result in a seamless motion.&lt;/li&gt;
+&lt;li&gt;The investigations focused on control of BBR system by linearizing its complex non-linear model and use LQR and PID controllers to achieve stability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;skills-involved&#34;&gt;SKILLS INVOLVED&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dynamics and Kinematics modelling&lt;/li&gt;
+&lt;li&gt;Design development&lt;/li&gt;
+&lt;li&gt;DC motor control&lt;/li&gt;
+&lt;li&gt;Jetson TK1&lt;/li&gt;
+&lt;li&gt;ROS C++&lt;/li&gt;
+&lt;li&gt;Control Algorithm development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;div-align-center-ball-balancing-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt; BALL BALANCING ROBOT &lt;/div&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -33,6 +33,16 @@
     </item>
     
     <item>
+      <title>Digsafe Autonomous Cable Detection &amp; Marking Robot.</title>
+      <link>http://localhost:1313/project/digsafe_robot/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/digsafe_robot/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;div align= &#34;justify&#34;&gt; Utility companies require conducting surveys to locate the distribution of power cables, a task that can be laborious. Inorder to solve this probelm, we&#39;ve designed the DigSafe robot, capable of autonomously detecting cables, predicting their trajectory, and marking their locations on the ground. Our contribution involves novel algorithm of multi-sensor fusion and accurately predictingn the path of underground power cables. Additionally, we&#39;ve developed a tracking controller to follow the generated trajectory, validating it against global plan derived from GIS data when available, or autonomously exploring the environment to locate and mark cables as needed. &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Methods for Scaling Spherical Robot.</title>
       <link>http://localhost:1313/patent/scalable_sp_patent/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
@@ -217,6 +227,28 @@ survivor, that can be anything from vaccines, first-aid, knife etc.
     &lt;/div&gt;&lt;/figure&gt;
 
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent Path Finding for Robots in Large-Scale Warehouses</title>
+      <link>http://localhost:1313/project/mapf/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mapf/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;p&gt;The Multi-Agent Pathfinding (MAPF) is a crucial problem of warehouse mobile robots to find collision free path to the target position. In this paper, we explore MAPF algorithms that produce an optimal and suboptimal path for a fixed number of robots to navigate in a warehouse environment. In addition, this paper also elaborates on the comparative analysis of the studied algorithms, with increasing environmental complexity and increasing number of agents. The compared parameters are the total cost, flowtime and makespan of each algorithm.&lt;/p&gt;
+&lt;h2 id=&#34;div-align-center-ball-balancing-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt; BALL BALANCING ROBOT &lt;/div&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saliency Object Detection using Attention blocks in U2Net Architecture</title>
+      <link>http://localhost:1313/project/atttention_u2net/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/atttention_u2net/</guid>
+      <description>&lt;h3 id=&#34;about-the-project&#34;&gt;ABOUT THE PROJECT&lt;/h3&gt;
+&lt;p&gt;Owing to the powerful feature extraction capabilities of convolutional neural networks (CNNs), deep learning methods have recently made significant strides in the field of salient object detection. Despite this progress, many current deep models struggle to effectively learn informative contextual features, resulting in suboptimal performance when faced with complex scenes. In our proposed approach, we explore the application of the U2Net-attention framework to enhance this performance of Salient Object Detection (SOD). Specifically, we analyze standard and modified attention blocks in conjunction with various U2Net architectures, such as attention-inside, attention-outside, and a combination of both. To provide a comprehensive evaluation of the proposed models, we employ a qualitative assessment of SOD using all attention-enhanced models and the attention maps generated.&lt;/p&gt;
+&lt;h2 id=&#34;div-align-center-ball-balancing-robot-div&#34;&gt;&lt;div align= &#34;center&#34;&gt; BALL BALANCING ROBOT &lt;/div&gt;&lt;/h2&gt;
+</description>
     </item>
     
     <item>
