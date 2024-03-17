@@ -86,9 +86,9 @@ sections:
           date_end:  '2023-12-15'
           description: |2-
               * Worked on DigSafe robot - Autonomous Cable Detection & Marking Robot funded by [ROSE-HUB WPI](https://wp.wpi.edu/rosehub/projects/) & [Eversource](https://www.eversource.com/content/residential). 
-              * Surveying and Marking power cable laid underground is labourous task, my work was focused on developing outdoor navigation stack.
+              * Surveying and Marking power cable laid underground is labourous task, my work was focused on developing sensor fusion algorithm.
               * I was engaged in development of multi-sensor fusion of Vivax Metrotech cable detector sensor to predict trajectory to be followed. 
-              * Implemented local planning based on trajectory prediction and tracking given global path generated from the Utility GIS Data. Developed  For more check project Digsafe
+              * Implemented local planning based on trajectory prediction and tracking given global path generated from the Utility GIS Data. For more check project Digsafe
   
         - title: Senior Robotics Engineer
           company: Peppermint Robots
