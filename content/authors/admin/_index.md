@@ -6,21 +6,20 @@ title: Vaibhav Nandkumar Kadam
 superuser: true
 
 # Role/position/tagline
-role: Autonomy Systems Intern
+role: Research Engineer Controls
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Danfoss Autonomy
-  url: https://www.danfoss.com/en-us/products/dps/autonomy/#tab-autonomous-hardware
+- name: Magna International
+  url: https://www.magna.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research include SLAM, Localization, Navigation, Motion Planning
+bio: My research interests lie at the intersection of Behavior Planning, Motion Planning and Controls
 
 # Interests to show in About widget
 interests:
-- Multi-sensor fusion
+- Behavior Planning/Decision-Making
 - Motion Planning
-- SLAM
 - Reinforcement Learning
 
 # Education to show in About widget
@@ -65,7 +64,7 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: vkadam@wpi.edu
+email: vaibhav02kadam@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -73,15 +72,16 @@ highlight_name: true
 
 <div align= "justify">
 
-Hello! I'm Vaibhav Kadam, graduating my Master's in Robotics from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) in May 2024. I'm pursuing my research in path planning & sensor fusion under the mentorship of [Prof. Jing Xiao](https://users.wpi.edu/~jxiao2/).
-</br>
-
-In my role as an Autonomy Systems Co-op at [Danfoss Autonomy](https://www.danfoss.com/en-us/products/dps/autonomy/#tab-autonomous-hardware), I'm developing decision-making architectures for Off-Highway vehicles, engaged with integrating the autonomy stack on Polaris Ranger where I have extensive hands-on experience working in V-Model Automotive software development and integrating industrial sensor stack. Along with that I'm working on 3D SLAM solution for localization in GNSS denied outdoor and indoor environments.
-</br>
-
-Before this, I served as a Senior Robotics Engineer at [Peppermint Robots](https://www.getpeppermint.co/index.php) in India from 2021 to 2022. There, I led the robotics development for autonomous industrial floor cleaning and material movement robots. I have contributed to obstacle avoidance for floor cleaning robots currently deployed for gangways for warehouses in India.  
+Hello! I’m Vaibhav Kadam, currently working as a Research Engineer in Controls at [Magna International](https://www.magna.com/), where I develop path planning and decision-making modules for L4 autonomous delivery robots, ensuring real-time performance in complex traffic environments.
 </br> 
-During my time at IIT Bombay (2018-2021), I built an exciting project [Spherical Robot](https://vaibhav02kadam.github.io/project/spherical_bot/) tailored to be small-size handheld robot for surveillance. Spherical Robot being wobbly in nature, led the investigations for system modelling and nonlinear control development. I hold [2 patents](http://localhost:1313/patent/) for small-factor design of spherical robot which is currently adapted by industry for product development. Press Release in leading newspaper in India [link](https://timesofindia.indiatimes.com/city/mumbai/mumbai-iit-b-profs-create-robot-for-reconnaissance-search-ops/articleshow/81694432.cms)
-</br>
-
-I'm all set to transition back to industry starting May 2024 for full-time roles. Seeking opportunities to further enrich my expertise and make impactful contributions to the robotics industry. Please feel free to connect with me at vkadam@wpi.edu to explore potential opportunities.
+I recently completed my Master’s in Robotics at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) (May 2024), where I specialized in path planning and sensor fusion under the mentorship of Prof. Jing Xiao.
+</br> 
+As an Autonomy Systems Co-op at [Danfoss Autonomy](https://www.danfoss.com/en-us/products/dps/autonomy/#tab-autonomous-hardware), I contributed to the off-highway autonomy stack and worked extensively with GNSS systems ranging from low-cost to high-precision, while integrating and validating autonomy modules on drive-by-wire platforms.
+</br> 
+Before that, I served as a Senior Robotics Engineer at [Peppermint Robots](https://www.peppermintrobotics.com/north-america)
+ in India (2021–2022), where I led the development of planning & controls for autonomous industrial floor-cleaning and material-movement robots.
+</br> 
+Earlier, at IIT Bombay (2018–2021), I developed the [Spherical Robot](https://vaibhav02kadam.github.io/project/spherical_bot/)
+ — a compact surveillance robot requiring advanced system modeling and nonlinear control to reduce inherent wobble. This research resulted in multiple granted patents for small-form-factor spherical robot design, which has since been adapted for industry applications. [Press release](https://timesofindia.indiatimes.com/city/mumbai/mumbai-iit-b-profs-create-robot-for-reconnaissance-search-ops/articleshow/81694432.cms)
+</br> 
+I am passionate about advancing autonomy through robust planning, controls, and decision-making, and I’m excited to continue contributing to scalable, safe, and reliable autonomous systems.
